@@ -13,13 +13,11 @@ I'm Sai Prasad Padhy, a software engineer by profession and a tech enthusiast by
 ## 📝 Latest Blog Posts
 <br>
 <!-- BLOG-POST-LIST:START -->
-
 - [Host your front-end websites for free using GitHub pages](https://blog.saiprasadpadhy.in/host-your-front-end-websites-for-free-using-github-pages)
 - [CSS layout made easy using box-sizing](https://blog.saiprasadpadhy.in/css-layout-made-easy-using-box-sizing)
 - [Flexbox made easy...](https://blog.saiprasadpadhy.in/flexbox-made-easy)
 - [::before ::after pseudo-elements](https://blog.saiprasadpadhy.in/before-after-pseudo-elements)
 - [Pseudo-classes CSS](https://blog.saiprasadpadhy.in/pseudo-classes-css)
-
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Pinned Repositories -->
