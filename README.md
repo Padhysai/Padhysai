@@ -9,16 +9,12 @@ I'm Sai Prasad Padhy, a software engineer by profession and a tech enthusiast by
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-%231D9BF0)](https://twitter.com/sai955000)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-%230A66C2)](https://www.linkedin.com/in/saiprasadpadhy/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-%232C303A)](https://codepen.io/padhysai)
-
-## 📝 Latest Blog Posts
 <br>
+## 📝 Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
-- [Host your front-end websites for free using GitHub pages](https://blog.saiprasadpadhy.in/host-your-front-end-websites-for-free-using-github-pages)
-- [CSS layout made easy using box-sizing](https://blog.saiprasadpadhy.in/css-layout-made-easy-using-box-sizing)
-- [Flexbox made easy...](https://blog.saiprasadpadhy.in/flexbox-made-easy)
-- [::before ::after pseudo-elements](https://blog.saiprasadpadhy.in/before-after-pseudo-elements)
-- [Pseudo-classes CSS](https://blog.saiprasadpadhy.in/pseudo-classes-css)
 <!-- BLOG-POST-LIST:END -->
+
 
 <!-- Pinned Repositories -->
 <br>
