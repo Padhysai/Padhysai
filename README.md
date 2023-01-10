@@ -13,11 +13,11 @@ I'm Sai Prasad Padhy, a software engineer by profession and a tech enthusiast by
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Prototype and Prototypal Inheritance in JavaScript](https://blog.saiprasadpadhy.in/prototype-and-prototypal-inheritance-in-javascript)
 - [Hoisting in JavaScript](https://blog.saiprasadpadhy.in/hoisting-in-javascript)
 - [How JavaScript Works?](https://blog.saiprasadpadhy.in/how-javascript-works)
 - [Intro to Media Queries](https://blog.saiprasadpadhy.in/intro-to-media-queries)
 - [Host your front-end websites for free using GitHub pages](https://blog.saiprasadpadhy.in/host-your-front-end-websites-for-free-using-github-pages)
-- [CSS layout made easy using box-sizing](https://blog.saiprasadpadhy.in/css-layout-made-easy-using-box-sizing)
 <!-- BLOG-POST-LIST:END -->
 
 
