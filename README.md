@@ -82,5 +82,5 @@ Most of my work sits at the intersection of streaming, Spark, Databricks, and go
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/padhysai/padhysai/main/dist/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/padhysai/padhysai/output/dist/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
