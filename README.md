@@ -74,7 +74,11 @@ Most of my work sits at the intersection of streaming, Spark, Databricks, and go
 ## ✍️ Writing
 
 <!-- BLOG-POST-LIST:START -->
-- Blog posts will appear here automatically
+- [Why Medallion Architecture Breaks for RAG Pipelines & What Actually Works](https://www.linkedin.com/pulse/why-medallion-architecture-breaks-rag-pipelines-what-actually-padhy-w1jbc/)
+- [Stop Calling the OpenAI API One Row at a Time in PySpark](https://www.linkedin.com/pulse/stop-calling-openai-api-one-row-time-pyspark-sai-prasad-padhy-7nwac/)
+- [Pinpoint Spark Jobs to Optimize Using the Spark UI](https://www.linkedin.com/pulse/pinpoint-spark-jobs-optimize-using-ui-sai-prasad-padhy-yioec/)
+- [Just Retry It: Why Blind Retries Hide Real Databricks Failures](https://www.linkedin.com/posts/saiprasadpadhy_when-a-databricks-job-fails-the-default-activity-7412092892921552896-wcAY)
+- [Tuning Shuffle Partitions: How One Spark Config Saved 30% Compute](https://www.linkedin.com/posts/saiprasadpadhy_one-tiny-spark-config-saved-us-30-compute-activity-7411005500101853185-anh7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -82,5 +86,5 @@ Most of my work sits at the intersection of streaming, Spark, Databricks, and go
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/padhysai/padhysai/output/dist/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/padhysai/padhysai/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
